@@ -29,7 +29,7 @@ Optional:
 Example:
 
 <script
-  src="https://kbsigmaboy67.github.io/g.js"
+  src="https://kbsigmaboy67AtSchool.github.io/g/.js"
   url="aHR0cHM6Ly9leGFtcGxlLmNvbQ=="
   title="My App"
   image="https://example.com/icon.png"
