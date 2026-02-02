@@ -2,7 +2,7 @@
   const s = document.currentScript;
 
   if (!s) {
-    alert("g.js error: <script> tag not detected.");
+    alert("s.js error: <script> tag not detected.");
     return;
   }
 
@@ -13,7 +13,7 @@
   // ---- HELP MESSAGE ----
   if (!rawUrl) {
     alert(
-`g.js usage:
+`s.js usage:
 
 You must provide a "url" attribute.
 
@@ -36,7 +36,7 @@ Example:
   async>
 </script>
 
-What g.js does:
+What s.js does:
 • Loads your URL inside a full-page iframe
 • Opens it via a Blob page
 • Replaces history entry (clean back button behavior)`
